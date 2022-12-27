@@ -14,6 +14,7 @@ The purpose of this project is to practice Redux Toolkit and MUI
 3. The user can remove the item in the resolution list
 4. When the user add the same item in the favorite list, it should show warning to user.
 5. Use `uuid` for the key when render the list
+6. Styling is up to you.
 
 ## Useful sources
 
